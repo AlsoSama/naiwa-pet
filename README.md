@@ -18,7 +18,7 @@
 
 ## 下载与使用
 
-**[下载奶蛙 v1.0.0 分享包](https://github.com/AlsoSama/naiwa-pet/releases/download/v1.0.0/naiwa-pet-v1.0.0.zip)** · [查看所有版本](https://github.com/AlsoSama/naiwa-pet/releases)
+**[下载奶蛙 v1.0.0 分享包](https://github.com/AlsoSama/naiwa-pet/raw/refs/tags/v1.0.0/downloads/naiwa-pet-v1.0.0.zip)** · [查看所有版本](https://github.com/AlsoSama/naiwa-pet/releases)
 
 1. 下载并解压分享包。
 2. 在支持 ChatGPT Work 宠物功能、且已启用 **Pets 插件**的聊天中，上传 `assets/naiwa-spritesheet.png`。
